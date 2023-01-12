@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 I am Abhishek Mishra
-- 🔭 I’m software engineer
+- 💻 Software Engineer at Cognam Technologies Pvt. Ltd.
 
 
 <!--
