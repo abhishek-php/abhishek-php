@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 😄 I am Abhishek Mishra
-- 🔭 I’m Pursuing Masters in Computer Application from Davv,indore
-- 🌱 I’m currently learning Web development
+- 🔭 I’m software engineer
 
 
 <!--
